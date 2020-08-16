@@ -2,6 +2,9 @@
 Welcome to my github page.  
 🌱 I’m a student currently learning pentest.  
 :kissing_heart: And this is my [***BABY***](https://github.com/Windy810) learning crypto.  
+
+[![zyazhb's github stats](https://github-readme-stats.vercel.app/api?username=zyazhb&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/zyazhb)
+
 <!--
 **zyazhb/zyazhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
