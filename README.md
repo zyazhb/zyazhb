@@ -7,7 +7,7 @@
 Welcome to my github page.  
 🌱 I’m a student currently learning pentest.  
 :kissing_heart: And this is my [***BABY***](https://github.com/Windy810) learning crypto.  
-
+This is my [blog](https://zyazhb.github.io) and this is its [mirror](https://zyazhb.vercel.app)   
 
 ## GPG
 ```
