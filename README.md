@@ -13,7 +13,7 @@ I Worked at
 2. Xiaomi Inc  
 
 :kissing_heart: And this is my [***BABY***](https://github.com/Windy810) who is learning at University of Chinese Academy of Sciences.  
-This is my [blog](https://zyazhb.github.io) and this is its [mirror](https://zyazhb.vercel.app), hace a look!  
+This is my [blog](https://zyazhb.github.io) and this is its [mirror](https://zyazhb.vercel.app), have a look!  
 
 ## GPG
 ```
