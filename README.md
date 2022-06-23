@@ -5,9 +5,15 @@
 
 ## Intro
 Welcome to my github page.  
-🌱 I’m a student currently learning pentest.  
-:kissing_heart: And this is my [***BABY***](https://github.com/Windy810) learning crypto.  
-This is my [blog](https://zyazhb.github.io) and this is its [mirror](https://zyazhb.vercel.app)   
+
+🌱 I’m a Security Engineer of **ChinaUnicom** .
+
+I Worked at  
+1. Chaitin Tech  
+2. Xiaomi Inc  
+
+:kissing_heart: And this is my [***BABY***](https://github.com/Windy810) who is learning at University of Chinese Academy of Sciences.  
+This is my [blog](https://zyazhb.github.io) and this is its [mirror](https://zyazhb.vercel.app), hace a look!  
 
 ## GPG
 ```
