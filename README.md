@@ -1,18 +1,16 @@
 ### Hi there 👋
 
-
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyazhb&count_private=true&show_icons=true&theme=tokyonight">](https://github.com/zyazhb)
-
 ## Intro
 Welcome to my github page.  
 
-🌱 I’m a Security Engineer of **ChinaUnicom** .
+I’m a Security Engineer & Software Developer.
 
 I Worked at  
 1. Chaitin Tech  
-2. Xiaomi Inc  
+2. Xiaomi Inc
+3. ChinaUnicom
 
-:kissing_heart: And this is my [***BABY***](https://github.com/Windy810) who is learning at University of Chinese Academy of Sciences.  
+:kissing_heart: And this is my [***BABY***](https://github.com/Windy810) who is learning at Australian National University.  
 This is my [blog](https://zyazhb.github.io) and this is its [mirror](https://zyazhb.vercel.app), have a look!  
 
 ## GPG
